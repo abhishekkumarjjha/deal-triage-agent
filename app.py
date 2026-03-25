@@ -7,7 +7,7 @@ import re
 import time
 
 # ── CONFIG ─────────────────────────────────────────────────────────────────
-API_KEY = "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"
+API_KEY = ["YOUR-API-KEY]
 
 st.set_page_config(
     page_title="Deal Triage Agent · AcquiOS",
